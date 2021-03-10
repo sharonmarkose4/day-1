@@ -11,7 +11,7 @@
 //}
  
 
-//class A {A(int i){}}
-//class B extends A{}
+class A {A(int i){}}
+class B extends A{}
  
  
